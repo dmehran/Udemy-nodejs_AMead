@@ -1,1 +1,1 @@
-# Sample codes from Udemy nodejs course with Andrew Mead
+# Sample codes from Udemy nodejs course with A Mead
